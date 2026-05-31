@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydecrypt",
+        "uuid": 18017964,
+        "checksum": "xrffgg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
